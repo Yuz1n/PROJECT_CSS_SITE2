@@ -1,4 +1,4 @@
-Projetc 3/20
+Project 3/20
 
 > Status: Finished ✔️
 
