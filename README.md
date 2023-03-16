@@ -11,3 +11,4 @@ This is my second project using CSS and HTML. In this project, I improved my CSS
 
 ## ⚒️ TOOLS
 - HTML 5
+- CSS 3
